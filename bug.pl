@@ -1,0 +1,1 @@
+my %hash = ('a' => 1, 'b' => 2, 'c' => 3);my $key = 'd';if (exists $hash{$key}) {print "Key exists\n";} else {print "Key does not exist\n";}
