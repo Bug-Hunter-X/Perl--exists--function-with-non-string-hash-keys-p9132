@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl related to the 'exists' function when used with hash keys that are not strings. The 'bug.pl' file contains code that illustrates the unexpected behavior. The 'bugSolution.pl' file offers a solution and explanation to resolve the issue. This is a classic example for beginners to Perl.
